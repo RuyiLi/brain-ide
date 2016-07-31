@@ -1,2 +1,2 @@
 # brain-ide
-An IDE for the language Brainfu**.
+An IDE for the Brainfu** language.
